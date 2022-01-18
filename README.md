@@ -1,6 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=sehaswaran&color=blueviolet&style=flat&label=Profile+Hits)
 
 ### Hi there 👋, Nice meeting you, I'm Sehaswaran.
+
+![Sehaswaran's Github Stats](https://github-readme-stats.vercel.app/api?username=sehaswaran&show_icons=true&theme=dracula&count_private=true)
+
+![Sehaswaran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehaswaran&layout=compact&count_private=true)
 <!--
 **sehaswaran/sehaswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
