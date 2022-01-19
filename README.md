@@ -5,6 +5,10 @@
 ![Sehaswaran's Github Stats](https://github-readme-stats.vercel.app/api?username=sehaswaran&show_icons=true&theme=dracula&count_private=true)
 
 ![Sehaswaran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehaswaran&layout=compact&count_private=true)
+
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sehaswaran&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>
+
 <!--
 **sehaswaran/sehaswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
